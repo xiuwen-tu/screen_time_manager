@@ -1,0 +1,42 @@
+2022-04-05 10:17:24,674 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 10:17:27,224 - st_mngr - INFO - 	twitter
+2022-04-05 10:17:28,913 - st_mngr - INFO - 	Cool. We'll go for 4 minutes.
+2022-04-05 10:17:28,921 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 10:21:28,947 - st_mngr - INFO - 	OK. Time is up! Minimizing firefox...
+2022-04-05 10:22:57,198 - st_mngr - INFO - 	Actual session time:  0:05:28.276586
+2022-04-05 11:30:51,933 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 11:30:54,217 - st_mngr - INFO - 	twitter
+2022-04-05 11:30:56,298 - st_mngr - INFO - 	Cool. We'll go for 4 minutes.
+2022-04-05 11:30:56,317 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 13:01:13,396 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 13:01:15,428 - st_mngr - INFO - 	twitter
+2022-04-05 13:01:17,708 - st_mngr - INFO - 	Cool. We'll go for 4 minutes.
+2022-04-05 13:01:17,713 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 13:05:16,475 - st_mngr - INFO - 	OK. Time is up! Minimizing firefox...
+2022-04-05 13:05:35,195 - st_mngr - INFO - 	Actual session time:  0:04:17.481965
+2022-04-05 14:13:49,393 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 14:13:57,117 - st_mngr - INFO - 	coursera
+2022-04-05 14:14:01,105 - st_mngr - INFO - 	OK. Changed to 5 minute(s).
+2022-04-05 14:14:01,105 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 16:53:51,325 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 16:53:53,988 - st_mngr - INFO - 	twitter
+2022-04-05 16:53:56,584 - st_mngr - INFO - 	Cool. We'll go for 4 minutes.
+2022-04-05 16:53:56,587 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 16:57:56,606 - st_mngr - INFO - 	OK. Time is up! Minimizing firefox...
+2022-04-05 16:58:19,845 - st_mngr - INFO - 	Actual session time:  0:04:23.258323
+2022-04-05 21:42:44,210 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 21:42:47,597 - st_mngr - INFO - 	twitter
+2022-04-05 21:42:49,274 - st_mngr - INFO - 	Cool. We'll go for 4 minutes.
+2022-04-05 21:42:49,274 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 21:46:49,317 - st_mngr - INFO - 	OK. Time is up! Minimizing firefox...
+2022-04-05 21:49:18,333 - st_mngr - INFO - 	Actual session time:  0:06:29.058786
+2022-04-05 23:07:25,803 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 23:07:28,822 - st_mngr - INFO - 	linkedin
+2022-04-05 23:07:30,783 - st_mngr - INFO - 	Cool. We'll go for 6 minutes.
+2022-04-05 23:07:30,798 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 23:35:13,246 - st_mngr - INFO - 	OK. Program st_mngr ver 0.06 started.
+2022-04-05 23:35:16,105 - st_mngr - INFO - 	coursera
+2022-04-05 23:35:20,394 - st_mngr - INFO - 	OK. Changed to 10 minute(s).
+2022-04-05 23:35:20,410 - st_mngr - INFO - 	OK. Firefox should be open.
+2022-04-05 23:45:20,458 - st_mngr - INFO - 	OK. Time is up! Minimizing firefox...
+2022-04-05 23:48:19,939 - st_mngr - INFO - 	Actual session time:  0:12:59.529589
